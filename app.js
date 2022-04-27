@@ -20,5 +20,5 @@ app.use("/products", productController);
 
 const port = 5500;
 app.listen(port, () =>{
-    console.log(`Server is running on part ${rates[0]}`)
+    console.log(`Server is running on part ${port}`)
 })

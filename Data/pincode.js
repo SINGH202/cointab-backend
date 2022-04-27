@@ -1,4 +1,4 @@
-export const pincode = [
+ const pincode = [
     {"Customer Pincode":"507101","Zone":"d"},
     {"Customer Pincode":"486886","Zone":"d"},
     {"Customer Pincode":"532484","Zone":"d"},
@@ -124,4 +124,4 @@ export const pincode = [
     {"Customer Pincode":"173212","Zone":"e"},
     {"Customer Pincode":"302020","Zone":"b"}
     ]
-    
+    module.exports = pincode
